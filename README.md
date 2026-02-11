@@ -162,7 +162,7 @@ A: Yes, any PDF will work.
 A: No, it creates a new file. Your original is untouched.
 
 **Q: Can I change the page size?**  
-A: Currently outputs US Letter (8.5"×11"). A4 support coming soon.
+A: Currently outputs US Letter (8.5"×11").
 
 **Q: What if slides are different sizes?**  
 A: The tool auto-scales each slide to fit while preserving aspect ratio.
