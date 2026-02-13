@@ -173,3 +173,5 @@ Built by Gianelli Lagos because organizing slides shouldn't be harder than learn
 ## License
 
 MIT License - free to use, modify, and share.
+
+![Lecture Notes Converter Illustration Image](assets/LNC-illustration.png)
